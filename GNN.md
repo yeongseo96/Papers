@@ -1,5 +1,6 @@
 # KDD
 ### 2020
+#### Research Track
 - A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403254)
 - AM-GCN: Adaptive Multi-channel Graph Convolutional Networks [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403177)
 - An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403050)
@@ -25,3 +26,16 @@
 - TinyGNN: Learning Efficient Graph Neural Networks [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403236)
 - Towards Deeper Graph Neural Networks [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403076)
 - XGNN: Towards Model-Level Explanations of Graph Neural Networks [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403085)
+
+#### Applied Data Science Track
+- A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403393)
+- Calendar Graph Neural Networks for Modeling Time Structures in Spatiotemporal User Behaviors [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403308)
+- ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403320)
+- Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403373)
+- Gemini: A Novel and Universal Heterogeneous Graph Information Fusing Framework for Online Recommendations [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403388)
+- Grale: Designing Networks for Graph Learning [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403302)
+- Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403358)
+- Hypergraph Convolutional Recurrent Neural Network [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403389)
+- M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403284)
+- Personalized Image Retrieval with Sparse Graph Representation Learning [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403324)
+- Scaling Graph Neural Networks with Approximate PageRank [[Link]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403296)
